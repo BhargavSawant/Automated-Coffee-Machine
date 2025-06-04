@@ -44,3 +44,5 @@ The flowchart covers the following operations in sequential logic:
 19. **End**
 
 ---
+ # Flow Diagram
+ <img width="1321" alt="Automated Coffee Machine" src="https://github.com/user-attachments/assets/3d365aa6-2318-4e28-9313-3ddca76dd0b6" />
