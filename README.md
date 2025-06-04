@@ -10,7 +10,7 @@ The flowchart provides a clear and structured representation of how an automated
 
 ---
 
-## 🛠 Tools Used
+##  Tools Used
 
 | Tool            | Description                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
